@@ -25,6 +25,7 @@ _This state lists items that will not ever be worked on_
 
 ##Rules
 In order for this system to work properly, we ask that you adhere to the following 3 rules:
+
 1. Everyone is allowed to create an issue
 2. Everyone is allowed to comment on any issue
 3. No one may adjust the Project Board except for Topcoder Admins
