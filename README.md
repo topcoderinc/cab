@@ -1,6 +1,6 @@
 # Topcoder CAB List
 
-####----Next Meeting: February 16th, 2017----
+####----Next Meeting: March 22nd, 2017----
 
 # Table of Contents
 1. [What Can You Do?](#whatcanyoudo)
